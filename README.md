@@ -1,7 +1,7 @@
 ### Hola humano 👋
 
-Mi nombre es Juani Gallo y soy un desarrollador web de Buenos Aires, Argentina, apasionado por la performance, las nuevas tecnologias y unir el mundo online con el offline.
+Mi nombre es Juani Gallo y soy un desarrollador de Buenos Aires, Argentina. Pase por muchas disciplinas dentro de la programación pero hoy en día invierto la mayor parte de mi tiempo en Web3.
 
-Soy uno de los fundadores y el CEO de [CourseIt](https://courseit.io).
+Actualmente trabajo como CEO de [Cafecito](https://cafecito.app) y Fundit.
 
-Si queres saber mas informacion sobre mi podes verla [acá](https://juanigallo.com)
+También fundé una plataforma eduactiva llamada [CourseIt](https://courseit.io).
