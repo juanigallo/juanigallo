@@ -4,4 +4,4 @@ Mi nombre es Juani Gallo y soy un desarrollador de Buenos Aires, Argentina. Pase
 
 Actualmente trabajo como CEO de [Cafecito](https://cafecito.app) y [Fundit](https://fundit.finance).
 
-También fundé una plataforma eduactiva llamada [CourseIt](https://courseit.io).
+También fundé una plataforma eduactiva llamada CourseIt
